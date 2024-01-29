@@ -22,4 +22,4 @@
 ```
 
 ## Website to find movie scripts
-This is the [Link](https://www.imsdb.com/) to find the movie scripts.
+This is the [Link](https://www.imsdb.com) to find the movie scripts.
