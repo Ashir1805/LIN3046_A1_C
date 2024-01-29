@@ -2,20 +2,25 @@
 
 ## Purpose
 
-This is a paragraph
 
+## Scope
 
+## File Organization
+
+## Language Data
 
 ## File Format
-
-Movie scripts. From the movie
+```
+1. Movie scripts. From the movie
 
 
 ## Group Members
-Ashir Naeem (11491486) --> 5 Comedy movies 
-*Lam Kit Ying (11420451) --> 5 Romance movies
-Fu Zi You Yoyo (11437038) --> 5 Sci-fi movies
-Rai Pujan (11485580) --> 5 Mystery movies
+```
+1. Ashir Naeem (11491486) --> 5 Comedy movies 
+2. Lam Kit Ying (11420451) --> 5 Romance movies
+3. Fu Zi You Yoyo (11437038) --> 5 Sci-Fiction movies
+4. Rai Pujan (11485580) --> 5 Mystery movies
+```
 
 ## Website to find movie scripts
-imsdb.com
+This is the [Link] (https://www.imsdb.com) to find the movie scripts.
