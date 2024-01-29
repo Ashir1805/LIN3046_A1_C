@@ -2,15 +2,13 @@
 
 ## Purpose
 
+To find out the highest-rated movies in the specific genres, namely comedy, romance, science-fiction, and mystery.
 
 ## Scope
 
 ## File Organization
 
 ## Language Data
-
-## File Format
-1. Movie scripts. From the movie
 
 
 ## Group Members
