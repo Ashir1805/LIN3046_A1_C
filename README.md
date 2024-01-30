@@ -14,7 +14,7 @@ All the files were stored in plain TXT file.
 
 ## Language Data
 
-Scripts of movies from the website below. Director and were found by searching in Google.
+Scripts of movies from the website below. Director of the selected movies was found by searching in Google.
 ```
 1. First, we visited the website.
 2. Next, we chose the genre.
@@ -22,6 +22,7 @@ Scripts of movies from the website below. Director and were found by searching i
 4. After that, we copied a part of the script, writer/s, movie title, and release date.
 5. Finally, we presented the collected data.
 ```
+The above is the steps.
 
 ## Group Members & Their Tasks
 ```
