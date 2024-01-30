@@ -32,5 +32,5 @@ The above is the steps.
 4. Rai Pujan (11485580) --> 5 Mystery movies
 ```
 
-## Website to find movie scripts
+## Website to Find Movie Scripts
 This is the [Link](https://www.imsdb.com) to find the movie scripts.
